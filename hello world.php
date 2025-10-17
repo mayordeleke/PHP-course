@@ -26,6 +26,7 @@ echo $x ; "<br>";
 $name = "azeez";
 echo "my name is " . $name . "<br>";
 echo "Jesus is Lord";
+echo " Lagos is abig city"
 ?>
 </body>
 </html>
