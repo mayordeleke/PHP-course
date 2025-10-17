@@ -16,7 +16,7 @@
       EcHo "Hello World!<br>";
 
     ?>
-    <?php
+    <?php 
 $color = "red";
 echo "My car is " . $color . "<br>";
 echo "My house is " . $COLOR . "<br>";
@@ -25,6 +25,7 @@ $x = 5 /* + 15 */ + 5;
 echo $x ; "<br>";
 $name = "azeez";
 echo "my name is " . $name . "<br>";
+echo "Jesus is Lord";
 ?>
 </body>
 </html>
